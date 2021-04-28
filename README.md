@@ -1,8 +1,8 @@
 # 1
 none
-# 作业
-## h2 标题
-#### h4 标题
+# homework
+## h2 
+#### h4 
 
 
 
@@ -19,7 +19,7 @@ none
 
 *斜体文本a*
 
-这里是~~文本a~~
+~~文本a~~
 
 
 ## 列表
@@ -45,6 +45,12 @@ none
 > > qq
 > > > qqq
 
+# 表格
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
 ## 代码
 
 c
@@ -60,11 +66,7 @@ int main()
 
 ## 指向隔壁---->[1.md](https://github.com/HANAMURA123/1/blob/main/1.md)
 
-# 表格
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
+
 
 # 图片
 ![伊里奥斯](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Farticle.fd.zol-img.com.cn%2Ft_s640x2000%2Fg5%2FM00%2F01%2F0C%2FChMkJldzds-IRtVdAAD74VtG-VMAATEYAFdH0sAAPv5058.jpg&refer=http%3A%2F%2Farticle.fd.zol-img.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622040514&t=50a6e8cde1e1e1ccd4a74873aa689c69)
